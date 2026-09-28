@@ -8,9 +8,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maria-stack-coder&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
-</p>
+
 
 </div>
 
