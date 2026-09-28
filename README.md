@@ -124,17 +124,7 @@ I am a **Software Engineer** specializing in full-stack architecture, high-perfo
   <img src="https://streak-stats.demolab.com?user=Maria-stack-coder&theme=tokyonight&hide_border=true&stroke=7928CA&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" width="70%" />
 </p>
 
-<!-- Rock-Solid Metrics Cards -->
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maria-stack-coder&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=7928CA&text_color=9CA3AF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maria-stack-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=9CA3AF&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
 
-<!-- Full 3D Activity Graph (Works Out-Of-The-Box, No Actions Required) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maria-stack-coder&theme=tokyonight" alt="GitHub Activity Graph" width="96%" />
-</p>
 
 </div>
 
