@@ -19,17 +19,15 @@
   <img src="https://komarev.com/ghpvc/?username=Maria-stack-coder&label=PROFILE%20VIEWS&color=7928CA&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- Dynamic Typewriter Animation -->
+<!-- Dynamic Typewriter Animation (Reliable Demolab CDN) -->
 <a href="https://github.com/Maria-stack-coder">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Architecting+Scalable+Full-Stack+Platforms;Engineering+Clean%2C+Accessible+%26+WCAG-Compliant+Web;Bridging+Modern+Web+with+Applied+Python+AI;Transforming+Complex+Problems+into+Fluid+Interfaces" alt="Typing Animation" />
 </a>
 
-<!-- Glassmorphism Developer Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
-</p>
+<br><br>
 
-
+<!-- Aesthetic Animated Developer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,99&height=180&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
 
 </div>
 
@@ -121,22 +119,21 @@ I am a **Software Engineer** specializing in full-stack architecture, high-perfo
 
 <div align="center">
 
+<!-- Reliable Continuous Contribution Streak Counter -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maria-stack-coder&theme=tokyonight&hide_border=true&stroke=7928CA&background=0D1117" alt="Maria's GitHub Streak" width="62%" />
+  <img src="https://streak-stats.demolab.com?user=Maria-stack-coder&theme=tokyonight&hide_border=true&stroke=7928CA&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" width="70%" />
 </p>
 
+<!-- Rock-Solid Metrics Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maria-stack-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A855F7&icon_color=7928CA" alt="Maria's GitHub Overview" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-stack-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7" alt="Top Languages" width="46%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maria-stack-coder&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=7928CA&text_color=9CA3AF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maria-stack-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=9CA3AF&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
-#### 🐍 Dynamic Contribution Visualizer
+<!-- Full 3D Activity Graph (Works Out-Of-The-Box, No Actions Required) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maria-stack-coder/Maria-stack-coder/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maria-stack-coder/Maria-stack-coder/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/Maria-stack-coder/Maria-stack-coder/output/github-contribution-grid-snake.svg" width="94%">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maria-stack-coder&theme=tokyonight" alt="GitHub Activity Graph" width="96%" />
 </p>
 
 </div>
